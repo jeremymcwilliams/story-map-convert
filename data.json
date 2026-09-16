@@ -1,0 +1,656 @@
+{
+    "values": {
+        "settings": {
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "Esri World Geocoder",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "medium",
+                    "position": "left"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-2",
+                    "themeMajor": "white",
+                    "dotNav": "#726458",
+                    "panel": "#FFF8E9",
+                    "media": "#C9C1B9",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#c0c0c0",
+                    "softBtn": "#444",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "times",
+                        "value": "font-family:times new roman,times,serif;"
+                    },
+                    "sectionContent": {
+                        "id": "times",
+                        "value": "font-family:times new roman,times,serif;"
+                    }
+                }
+            },
+            "header": {
+                "linkText": "Lewis & Clark London Humanities Program, Fall 2018",
+                "linkURL": "https://storymaps.arcgis.com",
+                "logoURL": "https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/sm_mj_logo__1543709826123.jpg",
+                "logoTarget": "https://www.lclark.edu/",
+                "social": {
+                    "facebook": false,
+                    "twitter": false,
+                    "bitly": false
+                }
+            }
+        },
+        "title": "Notting Hill: Past & Present\n",
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.15.1",
+            "editedWith": "1.33.0"
+        },
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"color:#000080\"><span style=\"font-size:40px\">Notting Hill:</span><span style=\"font-size:40px\"> Past &amp; Present</span></span></p>\n",
+                    "content": "<p><span style=\"font-size:22px\">By David Campion</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px\">Welcome to Notting Hill, one of London's most distinctive neighborhoods.&nbsp; Located in West London in the <a href=\"https://www.rbkc.gov.uk/\" target=\"_blank\">Royal Borough of Kensington &amp; Chelsea</a>, Notting Hill is bordered by Kensington to the South, Shepherd's Bush to the West, Ladbroke Grove to the North, and Westbourne Green and Bayswater to the East.&nbsp; The area has, at various times in its history, included farmland, a horse track, gravel pits, a Victorian slum, a world-famous street market, an immigrant community, and one of the most upscale residential neighborhoods in the world.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px\">Our tour will begin at the <a href=\"https://tfl.gov.uk/tube/stop/940GZZLUNHG/notting-hill-gate-underground-station\" target=\"_blank\">Notting Hill Gate Underground station</a> and proceed northward through the neighborhood, ending at the Latimer Road Underground station.</span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/nhg__1543858640548__w640.jpg\" width=\"402\" height=\"275\"></div>\n\n<figcaption><span style=\"color:#000000\">Image: Get West London</span></figcaption>\n</figure>\n",
+                    "contentActions": [],
+                    "creaDate": 1734395499659,
+                    "pubDate": 1734395499659,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webmap",
+                        "webmap": {
+                            "id": "495e908f013b45748d7d39584f07e704",
+                            "extent": {
+                                "xmin": -25207.199950406626,
+                                "ymin": 6710264.13355452,
+                                "xmax": -20988.83145180733,
+                                "ymax": 6714726.145080784,
+                                "spatialReference": {
+                                    "wkid": 102100
+                                }
+                            },
+                            "layers": null,
+                            "popup": null,
+                            "overview": {
+                                "enable": false,
+                                "openByDefault": true
+                            },
+                            "legend": {
+                                "enable": false,
+                                "openByDefault": false
+                            },
+                            "geocoder": {
+                                "enable": false
+                            },
+                            "altText": ""
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"color:#000080;\"><span style=\"font-size:26px;\">Origins and Early History</span></span>",
+                    "content": "<p class=\"MsoNormal\"><span style=\"font-size:18px;\">The origins of Notting Hill are the subject of debate.&nbsp; The earliest recorded mention is in the patent rolls of 1356 as “Knottynghull” while a court report from the reign of Henry VIII describes the area “Notingbarons” in the parish of Paddington under the abbot of Westminster.&nbsp; <em>The Dictionary of London Place-Names</em> describes it as follows:</span></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size:18px;\">&nbsp;</span></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size:18px;\">“Recorded as <em>Knottynghull</em> 1356, <em>Notynghyll</em> 1550, <em>Noding Hill</em> 1680, <em>Notting Hill</em> 1876–7. In the same vicinity were <em>Knottyngwode</em> 1376, <em>Nuttyng Woode</em> 1550, <em>Knottyngesbernys</em> 1462, <em>Notingbarns</em> 1519. These are perhaps best interpreted as ‘the hill, wood, and barns at <em>Knottyng</em>,’ in which <em>Knottyng</em> might be an old hill name formed from Old English <em>cnotta</em> ‘knot, lump,’ or an old place name meaning ‘Cnotta’s Place, estate associated with a man called <em>Cnotta</em>,’ from an Old English personal name and <em>-ing</em>, with the later addition of Middle English <em>hull</em> or <em>hill, wode</em> and <em>bern</em>. Alternatively, the first element could be a Middle English surname <em>Knottyng</em> indicating lands held here by a family from Knotting in Bedfordshire (‘hill people,’ or ‘Cnotta’s People,’ from the element or personal name cited above with -<em>ingas</em>). <em>Notting Barn</em> is still marked on the Ordnance Survey map of 1876–7 and is recalled in Notting Barn Road in North Kensington.”</span></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size:18px;\">&nbsp;</span></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size:18px;\">By the 18th century, Notting Hill was mostly farmland.&nbsp; The area contained gravel pits and by the early 19th century was also the site of numerous brick kilns, the main source of industry.&nbsp; In 1837, a local entrepreneur named John Whyte built a hippodrome (horse track) hoping to use the hill itself as a natural grandstand that would attract crowds to rival the established racetracks at Epsom and Ascot.&nbsp; The Kensington Hippodrome was not a success. <em>The Times</em> described as a</span><span style=\"font-size:18px;\"> “disgusting... petty botheration” and a “shame upon the people of Kensington” (Denny).&nbsp; It closed in 1842 and the land was later developed for town homes as the urbanization of London spread outward.</span></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size:18px;\">&nbsp;</span></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size:18px;\">By 1900, The area that is now Notting Hill had become a dense, residential neighborhood with most of the green spaces eliminated or confined to gated residential parks.&nbsp; It was bounded by the tracks of the West London Railway to the west and the Great Western Railway to the north.</span><span style=\"font-size:18px;\">&nbsp; </span><span style=\"font-size:18px;\">Notting Hill Gate to the south is named for a turnpike gate that formerly stood on the main Oxford road (now Bayswater Road) near the site of the present Underground station of the same name.</span></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size:18px;\">&nbsp;</span></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size:18px;\"><strong>Source: </strong>A.D. Mills, <em>A Dictionary of London Place-Names</em>, 2010; Barbara Denny, <em>Notting Hill and Holland Park Past</em>, 1993.</span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/NH%201891__1543837864500__w689.jpg\" width=\"401\" height=\"441\"></div>\n\n<figcaption>\n<p><span style=\"font-size:16px;\"><span style=\"color:#000000;\">Philip &amp; Son, Notting Hill, 1891; Image: Frontispiece</span></span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/portland-rd-from-kht__1543840829401__w533.jpg\" width=\"399\" height=\"360\"></div>\n\n<figcaption><span style=\"font-size:16px;\"><span style=\"color:#000000;\">Notting Hill Brewery, 1920s; Image: Library Time Machine</span></span></figcaption>\n\n<figcaption>\n<p><span style=\"font-size:16px;\"><span style=\"color:#000000;\">Opposite: Notting Hill Gate, <em>c.</em>1900; Image: Library Time Machine</span></span></p>\n</figcaption>\n</figure>\n</figcaption>\n\n<figcaption>&nbsp;</figcaption>\n</figure>\n",
+                    "contentActions": [],
+                    "creaDate": 1543948401149,
+                    "pubDate": 1543948401149,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/notting-hill-gate-pc929__1543837765132__w1024.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<p><span style=\"color:#000080;\"><span style=\"font-size:26px;\">George Orwell:</span></span></p>\n\n<p><span style=\"color:#000080;\"><span style=\"font-size:26px;\">Conscience of the 20th Century</span></span></p>\n",
+                    "content": "<p><span style=\"font-size:18px;\">From Notting Hill Gate station walk westward a short distance and then turn right onto Pembridge Road.&nbsp; Continue northward and turn left onto Portobello Road.&nbsp; As you veer right, you will come upon 22 Portobello Road, a modest two-story row house.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">Eric Arthur Blair (1903-1950), better known by his pen name, <strong>George Orwell</strong>, lived as a lodger at 22 Portobello Road during the winter of 1927. Orwell occupied a single, unheated room on the upper story that his friend Ruth Potter had helped him find. This was shortly after his resignation from the Indian Police in which he had served unhappily for five years with postings mostly in Burma. Orwell would go on to become one of the most important literary figures and social critics of the 20th century.</span></p>\n\n<p style=\"text-align:justify\">&nbsp;</p>\n\n<p><span style=\"font-size:18px;\"><strong>Sources:</strong> \"George Orwell\" <em>Oxford Dictionary of National Biography (ODNB)</em>; \"<a href=\"http://knowledgeoflondon.com/writers/orwell.html\" target=\"_blank\">Knowledge of London</a>\"; <a href=\"https://www.telegraph.co.uk/property/uk/sale-george-orwells-former-home-now-ultra-fashionable-notting/\" target=\"_blank\"><em>The Telegraph</em></a>, 14 July 2018.</span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"Image: Branch of National Union of Journalists, 1943.\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/orwell__1543705608982__w471.jpg\" width=\"404\" height=\"549\"></div>\n\n<figcaption>\n<p><span style=\"color:#000000;\"><span style=\"font-size:16px;\">Image: Branch of National Union of Journalists, 1943</span></span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/22port__1543705810700__w341.jpg\" width=\"403\" height=\"533\"></div>\n\n<figcaption>\n<p><span style=\"color:#000000;\"><span style=\"font-size:16px;\">Image: Knowledge of London</span></span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/orw__1543706072808__w477.jpg\" width=\"404\" height=\"333\"></div>\n\n<figcaption><span style=\"color:#000000;\"><span style=\"font-size:16px;\">Photo by David Campion, 2018</span></span></figcaption>\n</figure>\n</figcaption>\n</figure>\n</figcaption>\n</figure>\n",
+                    "contentActions": [],
+                    "creaDate": 1544046073780,
+                    "pubDate": 1544046073780,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webmap",
+                        "webmap": {
+                            "id": "495e908f013b45748d7d39584f07e704",
+                            "extent": {
+                                "xmin": -22747.480266703005,
+                                "ymin": 6711638.805735333,
+                                "xmax": -21692.888142169995,
+                                "ymax": 6712754.308616776,
+                                "spatialReference": {
+                                    "wkid": 102100
+                                }
+                            },
+                            "layers": null,
+                            "popup": null,
+                            "overview": {
+                                "enable": false,
+                                "openByDefault": true
+                            },
+                            "legend": {
+                                "enable": false,
+                                "openByDefault": false
+                            },
+                            "geocoder": {
+                                "enable": false
+                            },
+                            "altText": "Notting Hill Gate"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"color:#000080;\"><span style=\"font-size:26px;\">Notting Hill&#39;s Anglican Churches</span></span>",
+                    "content": "<p><span style=\"font-size:18px;\">Continue northward along Portobello Road and turn left onto Chepstow Villas. Then turn right onto Kensington Park Road. After a short distance you will see St. Peter's Anglican church to your right.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\"><a href=\"https://www.stpetersnottinghill.org.uk/\" target=\"_blank\">St. Peter's</a> is an Anglican parish serving Notting Hill.&nbsp; It was designed by Thomas Allom (1804-1872) and completed in 1857. It is believed to be one of the last Anglican churches built in London using the neo-classical style that was popular in the 18th century.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">From St. Peter's church turn left onto Stanley Gardens and left again onto Stanley Crescent.&nbsp; Then turn right onto Kensington Park Gardens and head westward until you see St. John's Anglican church directly ahead.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\"><a href=\"http://www.stjohnsnottinghill.com/\" target=\"_blank\">St. John's</a> an excellent example of the Gothic style more common among Victorian Anglican churches.&nbsp; It was designed by Thomas Allason (1790-1852) and completed in 1845.&nbsp; This church is dedicated to St. John the Evangelist and is located on the southern end of Ladbroke Grove on the site of what was once the Kensington Hippodrome in the 1830s and 40s.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">The proximity of two Anglican parishes within one block of each other attests to the predominance of the Church of England as the largest religion in Victorian London and a major institution for social welfare in Britain.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\"><strong>Sources:</strong> St. Peter's Parish and St. John's Parish in the Anglican Diocese of London; Barbara Denny, <em>Notting Hill and Holland Park Past</em>, 1993.</span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/37%20copy__1543776540430__w426.jpg\" width=\"402\" height=\"604\"></div>\n\n<figcaption>\n<p><span style=\"color:#000000;\"><span style=\"font-size:16px;\">St. Peter's Church. Photo by David Campion, 2018</span></span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/39%20copy__1543776682944__w415.jpg\" width=\"401\" height=\"618\"></div>\n\n<figcaption><span style=\"color:#000000;\"><span style=\"font-size:16px;\">St. John's Church. Photo by David Campion, 2018</span></span></figcaption>\n</figure>\n</figcaption>\n</figure>\n",
+                    "contentActions": [],
+                    "creaDate": 1543996147478,
+                    "pubDate": 1543996147478,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webmap",
+                        "webmap": {
+                            "id": "495e908f013b45748d7d39584f07e704",
+                            "extent": {
+                                "xmin": -23182.215865038244,
+                                "ymin": 6711736.740677815,
+                                "xmax": -22127.623740505234,
+                                "ymax": 6712852.243559258,
+                                "spatialReference": {
+                                    "wkid": 102100
+                                }
+                            },
+                            "layers": null,
+                            "popup": null,
+                            "overview": {
+                                "enable": false,
+                                "openByDefault": true
+                            },
+                            "legend": {
+                                "enable": false,
+                                "openByDefault": false
+                            },
+                            "geocoder": {
+                                "enable": false
+                            },
+                            "altText": "Notting Hill Gate"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"color:#000080;\"><span style=\"font-size:26px;\">The Suffragettes&#39; Crusade</span></span>",
+                    "content": "<p><span style=\"font-size:18px;\">From St. John's Church continue westward along St. John's Gardens until you reach Clarendon Road then turn right.&nbsp; On the right side you will see a large town house at 50 Clarendon Road.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">This was the home of <strong>Emmeline Pankhurst</strong> (1858-1928) and her daughter Christabel (1880-1958) between 1916 and 1919.&nbsp; Mrs. Pankhurst was the leader of the Women's Social and Political Union (WSPU) and Christabel edited the organization's journal, <em>The Suffragette</em>, which became the unofficial name given to militant women campaigning for votes for women.&nbsp; <a href=\"https://www.culture24.org.uk/places-to-go/north-west/manchester/art34623\" target=\"_blank\">At the time that the Pankhursts were living on Clarendon Road</a>, Britain was in the midst of the First World War.&nbsp; Mrs. Pankhurst and the WSPU changed their tactics from confrontation to support for the war effort and for women workers in war production.&nbsp; In 1918, Parliament passed the Representation of the People Act granting the vote to women aged 30 and over.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">The stately home at 50 Clarendon Road attests to the upper-middle class affluence of the Pankhursts, especially in comparison to the modest lodgings of George Orwell, then an unknown and struggling writer, at Portobello Road a decade later.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\"><strong>Sources:</strong> \"Emmeline Pankhurst,\" \"Christabel Pankhurst\" <em>ODNB</em>; Culture 24; Museum of London.</span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/TNA%201%20536%203__1543781845062__w306.jpg\" width=\"397\" height=\"497\"></div>\n\n<figcaption>\n<p><span style=\"font-size:16px;\"><span style=\"color:#000000;\">Emmeline Pankhurst; Image: UK National Archives 1/536/3</span></span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><span style=\"font-size:16px;\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/mol__1543781938578__w401.jpg\"></span></div>\n\n<figcaption>\n<p><span style=\"font-size:16px;\"><span style=\"color:#000000;\">Image: Museum of London</span></span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><span style=\"font-size:16px;\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/10%20copy__1543782000218__w424.jpg\" width=\"402\" height=\"455\"></span></div>\n\n<figcaption>\n<p><span style=\"font-size:16px;\"><span style=\"color:#000000;\">50 Clarendon Crescent. Photo by David Campion, 2018</span></span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><span style=\"font-size:16px;\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/09__1543782039799__w519.jpg\" width=\"401\" height=\"371\"></span></div>\n</figure>\n</figcaption>\n</figure>\n</figcaption>\n</figure>\n</figcaption>\n\n<figcaption><span style=\"color:#000000;\"><span style=\"font-size:16px;\">Photo by David Campion, 2018</span></span></figcaption>\n</figure>\n",
+                    "contentActions": [],
+                    "creaDate": 1543996222068,
+                    "pubDate": 1543996222068,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webmap",
+                        "webmap": {
+                            "id": "495e908f013b45748d7d39584f07e704",
+                            "extent": {
+                                "xmin": -23815.21000547142,
+                                "ymin": 6711444.130178933,
+                                "xmax": -22760.61788093841,
+                                "ymax": 6712559.633060376,
+                                "spatialReference": {
+                                    "wkid": 102100
+                                }
+                            },
+                            "layers": null,
+                            "popup": null,
+                            "overview": {
+                                "enable": false,
+                                "openByDefault": true
+                            },
+                            "legend": {
+                                "enable": false,
+                                "openByDefault": false
+                            },
+                            "geocoder": {
+                                "enable": false
+                            },
+                            "altText": "Notting Hill Gate"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"color:#000080;\"><span style=\"font-size:26px;\">Pottery Lane: &quot;A plague spot scarcely equalled for its insalubrity...&quot;</span></span>",
+                    "content": "<p><span style=\"font-size:18px;\">Continue northward on Clarendon Road and turn left on Hippodrome Place and head west.&nbsp; Turn right onto Walmer Road just north of Pottery Lane.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">Here you will see the only surviving brick kiln from when the area was a major manufacturer of bricks.&nbsp; This was the site of one of the most wretched slums of early 19th-century London called \"The Potteries and the Piggeries.\"&nbsp; Laborers in the brickworks and gravel pits dug up the local clay and fired the kilns at an exhausting rate to keep up with the demand for building materials amid industrial London's rapid expansion.&nbsp; They shared this space with local pig farmers who had been forced westward by urbanization (hence the slum's colorful name).&nbsp; Overcrowding and poor sanitation---with pig excrement and rainwater regularly draining into the open clay pits and wells---made life miserable for the inhabitants</span><span style=\"font-size:18px;\">. This filthy and crime-ridden area was somewhere that few wealthy or middle-class Londoners would go near, if they even knew about it.&nbsp; Charles Dickens described it in 1850 as \"<a href=\"http://www.djo.org.uk/household-words/volume-i/page-463.html\" target=\"_blank\">a plague spot scarcely equalled for its insalubrity by any other in London</a>\".</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">The days of \"The Potteries and the Piggeries\" are long gone.&nbsp; Pottery Lane, on the border between Notting Hill and Holland Park, is today situated firmly within one of the most expensive residential real estate markets in the world.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\"><strong>Sources: </strong>Mary Bayly, <em>Ragged Homes and How to Mend Them</em>, 1859; Barbara Denny, <em>Notting Hill and Holland Park Past</em>, 1993; Charles Dickens, <em>Household Words: A Weekly Journal</em>, Vol I, 1850. </span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/wk__1543787291569__w480.jpg\" width=\"403\" height=\"511\"></div>\n\n<figcaption>\n<p><span style=\"font-size:16px;\"><span style=\"color:#000000;\">Walmer Road Beehive Kiln; Photo by Alexander Williams</span></span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/wk2__1543787336463__w776.jpg\" width=\"402\" height=\"232\"></div>\n\n<div class=\"image-container\"><span style=\"font-size:16px;\"><span style=\"color:#000000;\">Kiln Plaque; Photo by Alexander Williams</span></span></div>\n</figure>\n</figcaption>\n</figure>\n",
+                    "contentActions": [],
+                    "creaDate": 1544046128253,
+                    "pubDate": 1544046128253,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webmap",
+                        "webmap": {
+                            "id": "495e908f013b45748d7d39584f07e704",
+                            "extent": {
+                                "xmin": -24061.24169024356,
+                                "ymin": 6711477.571378806,
+                                "xmax": -23006.64956571055,
+                                "ymax": 6712593.074260249,
+                                "spatialReference": {
+                                    "wkid": 102100
+                                }
+                            },
+                            "layers": null,
+                            "popup": null,
+                            "overview": {
+                                "enable": false,
+                                "openByDefault": true
+                            },
+                            "legend": {
+                                "enable": false,
+                                "openByDefault": false
+                            },
+                            "geocoder": {
+                                "enable": false
+                            },
+                            "altText": "Notting Hill Gate"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"color:#000080;\"><span style=\"font-size:26px;\">Notting Hill during the Blitz</span></span>",
+                    "content": "<p><span style=\"font-size:18px;\">During the Second World War, Notting Hill experienced significant damage from enemy bombing, though this was not as severe as what was sustained in other London neighborhoods, especially those in the East End.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">During the aerial bombing campaign known as \"The Blitz\" (7 October 1940 to 6 June 1941), The Royal Borough of Kensington &amp; Chelsea is <a href=\"http://bombsight.org/explore/greater-london/kensington-and-chelsea/\" target=\"_blank\">recorded to have been hit by 467 bombs and three parachute mines</a>.&nbsp; The Central Line platforms in the Notting Hill Gate and Holland Park Underground station were deep enough to provide overnight shelter to hundreds of local residents during the long months of the Blitz.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\"><strong>Sources:</strong> <a href=\"http://bombsight.org/#15/51.5050/-0.0900\" target=\"_blank\">Bombsight</a>; London Transport Museum; persephonebooks.co.uk.</span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/bomb-damage-notting-hill__1543840045404__w492.jpg\" width=\"400\" height=\"297\"></div>\n\n<figcaption>\n<p><span style=\"font-size:16px;\"><span style=\"color:#000000;\">Bomb damage in Notting Hill; Image: Persephone Books</span></span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/Holland-park-underground-London-T-Mus__1543840094062__w300.jpg\" width=\"401\" height=\"307\"></div>\n\n<figcaption>\n<p><span style=\"color:#000000;\"><span style=\"font-size:16px;\">Sheltering in Holland Park Station; Image: London Transport Museum</span></span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"color:#000000;\"><span style=\"font-size:16px;\">Opposite: Rackham St. in North Kensington; Image: Library Time Machine</span></span></p>\n</figcaption>\n</figure>\n</figcaption>\n</figure>\n",
+                    "contentActions": [],
+                    "creaDate": 1545242369367,
+                    "pubDate": 1545242369367,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/no-01-rackham-street__1543840678379__w801.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<p><span style=\"color:#000080;\"><span style=\"font-size:26px;\">Jimi Hendrix dead at 27</span></span></p>\n",
+                    "content": "<p><span style=\"font-size:18px;\">From Walmer Road retrace your steps back to Clarendon Road and then turn left.&nbsp; Make a right turn onto Lansdowne Rise and walk eastward until you return to Lansdowne Crescent then turn left. At 22 Lansdowne Crescent you will see a pleasant though unremarkable town house.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">In 1970 this was the site of the Samarkand Hotel.&nbsp; On 18 September of that year, rock legend <strong>Jimi Hendrix</strong> (1942-1970) <a href=\"https://www.youtube.com/watch?v=ggkGmbsBIgE\" target=\"_blank\">was found dead at that location</a> of an apparent drug overdose.&nbsp; Hendrix, a singer and songwriter, was one of the most innovative and influential guitarists of all time.&nbsp; An iconic figure of the 1960s counter culture, he founded <em>The Jimi Hendrix Experience</em> in Westminster in 1966 with bassist Noel Redding and drummer Mitch Mitchell.&nbsp; </span><span style=\"font-size:18px;\">Hendrix had been a long-time resident of London prior to his death and was one of the city's best known musical celebrities.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\"><strong>Sources:</strong> \"Jimi Hendrix\" <em>American National Biography</em>; ABC News Archive; <em>The New York Times,</em> 18 Sep 1970.</span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/barrie%20wentzell%20bbc%20c1967__1543779544852__w424.jpg\" width=\"402\" height=\"415\"></div>\n\n<figcaption>\n<p><span style=\"font-size:16px;\"><span style=\"color:#000000;\">Photo by Barrie Wentzell <em>c.</em>1967; Image: BBC</span></span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/hendrix%20nyt__1543779622437__w578.jpg\" width=\"401\" height=\"497\"></div>\n\n<figcaption>\n<p><span style=\"font-size:16px;\"><span style=\"color:#000000;\"><em>The New York Times</em>, 19 September 1970</span></span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><span style=\"font-size:16px;\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/22lc__1543779721077__w427.jpg\" width=\"401\" height=\"601\"></span></div>\n\n<figcaption><span style=\"color:#000000;\"><span style=\"font-size:16px;\">22 Lansdowne Crescent. Photo by David Campion, 2018</span></span></figcaption>\n</figure>\n</figcaption>\n</figure>\n</figcaption>\n</figure>\n",
+                    "contentActions": [],
+                    "creaDate": 1543948997352,
+                    "pubDate": 1543948997352,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webmap",
+                        "webmap": {
+                            "id": "495e908f013b45748d7d39584f07e704",
+                            "extent": {
+                                "xmin": -23551.263392196455,
+                                "ymin": 6711838.258605995,
+                                "xmax": -22496.671267663445,
+                                "ymax": 6712953.761487438,
+                                "spatialReference": {
+                                    "wkid": 102100
+                                }
+                            },
+                            "layers": null,
+                            "popup": null,
+                            "overview": {
+                                "enable": false,
+                                "openByDefault": true
+                            },
+                            "legend": {
+                                "enable": false,
+                                "openByDefault": false
+                            },
+                            "geocoder": {
+                                "enable": false
+                            },
+                            "altText": "Notting Hill Gate"
+                        }
+                    }
+                },
+                {
+                    "title": "<p><span style=\"color:#000080;\"><span style=\"font-size:26px;\">Jawaharlal Nehru:</span><span style=\"font-size:26px;\"> An Indian in London</span></span></p>\n",
+                    "content": "<p><span style=\"font-size:18px;\">From Lansdowne Crescent turn left onto Ladbroke Grove and head northward for two blocks.&nbsp; Then turn left onto Elgin Crescent.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\"><strong>Jawaharlal Nehru</strong> (1889-1964), the first prime minister of independent India, lived at <a href=\"https://www.rbkc.gov.uk/vmgallery/general/medium.asp?gallery=vm_blue_plaques&amp;img=blue_plaques/thumb/vm_bp_0034.jpg&amp;size=medium\" target=\"_blank\">60 Elgin Crescent</a> in 1910 and 1912 while he was studying law at the Inner Temple following his graduation from Trinity College, Cambridge.&nbsp; Nehru returned to India in 1912 and spent decades at a lawyer and leader in the Indian National Congress alongside his friend Mohandas Gandhi.&nbsp; In 1947, Nehru become the first prime minister of India, a position he held until his death seventeen years later.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\"><strong>Sources: </strong>\"Jawaharlal Nehru\" <em>ODNB</em>; RBKC Libraries.</span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/nehru__1543771541440__w486.jpg\" width=\"399\" height=\"462\"></div>\n\n<figcaption><span style=\"font-size:16px;\"><span style=\"color:#000000;\">Image: Nehru <em>c.</em>1910; Gopanna, <em>Nehru: An Illustrated Biography</em></span></span></figcaption>\n</figure>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/yousuf%20karsh%201956%20npg__1543708596465__w300.jpg\" width=\"402\" height=\"497\"></div>\n\n<figcaption><span style=\"font-size:16px;\"><span style=\"color:#000000;\">Image: Nehru 1956, Yousuf Karsh, National Portrait Gallery</span></span></figcaption>\n</figure>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/60elgin__1543708806539__w427.jpg\" width=\"403\" height=\"604\"></div>\n\n<figcaption><span style=\"font-size:16px;\"><span style=\"color:#000000;\">60 Elgin Crescent. Photo by David Campion, 2018</span></span></figcaption>\n</figure>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/nehru-dp061284-plaque-1000__1543709202334__w472.jpg\" width=\"400\" height=\"388\"></div>\n\n<figcaption><span style=\"font-size:16px;\"><span style=\"color:#000000;\">Image: Blue Plaques, English Heritage</span></span></figcaption>\n</figure>\n",
+                    "contentActions": [],
+                    "creaDate": 1544046222016,
+                    "pubDate": 1544046222016,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webmap",
+                        "webmap": {
+                            "id": "495e908f013b45748d7d39584f07e704",
+                            "extent": {
+                                "xmin": -23718.469391556155,
+                                "ymin": 6712171.476276151,
+                                "xmax": -22663.877267023145,
+                                "ymax": 6713286.979157594,
+                                "spatialReference": {
+                                    "wkid": 102100
+                                }
+                            },
+                            "layers": null,
+                            "popup": null,
+                            "overview": {
+                                "enable": false,
+                                "openByDefault": true
+                            },
+                            "legend": {
+                                "enable": false,
+                                "openByDefault": false
+                            },
+                            "geocoder": {
+                                "enable": false
+                            },
+                            "altText": "Notting Hill Gate"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"color:#000080;\"><span style=\"font-size:26px;\">Portobello Road Market</span></span>",
+                    "content": "<p><span style=\"font-size:18px;\">Head eastward on Elgin Crescent for two blocks and turn left onto Portobello Road.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">Portobello Road is the heart of Notting Hill and one of the most famous locations in London, drawing thousands of tourists each year.&nbsp; In the 18th century, when the area was farmland, Portobello Road was a country path that linked the gravel pits near what is now Notting Hill Gate to Kensal Green in the north.&nbsp; Rumor has it that the name derives from a British victory in the War of Jenkin's Ear (1739-1748) that led to the capture of the Spanish port of Puerto Bello in what is now Panama.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">Today it is the site of the world-famous <a href=\"https://portobellomarket.org/\" target=\"_blank\">Portobello Road Market</a>.&nbsp; The market began in 1875 when gypsies/Roma sold their wares from carts in the street. During the week, the market sells produce, meat, fish and baked goods, mostly to local residents.&nbsp; On the weekends, the market extends from the intersection of Portobello Road and Chepstow Villas to the south all the way to the Westway flyover to the North.&nbsp; The weekend market features antique and souvenir vendors that draw mostly tourists.&nbsp; The market has been featured in many films and TV programs, including <em>The Blue Lamp</em> (1950) and <em>Notting Hill</em> (1999) as well as in novels such as Muriel Spark's <em>The Portobello Road</em>, Michael Moorcock's <em>The Chinese Agent</em>, and Paulo Coelho's <em>The Witch of Portobello</em>.&nbsp; Notable landmarks along the road include the Electric Cinema (1910), one of London's oldest movie houses.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\"><strong>Sources:</strong> A.D. Mills, <em>A Dictionary of London Place-Names</em>, 2010; portobellomarket.org; visitlondon.com.</span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/Environs_of_London_Davies_map_1841__1543834163351__w414.jpg\" width=\"402\" height=\"295\"></div>\n\n<figcaption>\n<p><span style=\"color:#000000;\"><span style=\"font-size:16px;\">Image: Davies, <em>Environs of London</em>, 1841</span></span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><span style=\"color:#000000;\"><span style=\"font-size:16px;\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/Port%20market%201950%20Flashbak%202__1543834203411__w954.jpg\" width=\"401\" height=\"307\"></span></span></div>\n\n<figcaption>\n<p><span style=\"color:#000000;\"><span style=\"font-size:16px;\">Portobello Road Market, 1950: Image: Flashbak</span></span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><span style=\"color:#000000;\"><span style=\"font-size:16px;\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/visit%20London__1543834261124__w457.jpg\" width=\"401\" height=\"314\"></span></span></div>\n\n<figcaption>\n<p><span style=\"color:#000000;\"><span style=\"font-size:16px;\">Portobello Road Market, 2018; Image: Visit London</span></span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><span style=\"color:#000000;\"><span style=\"font-size:16px;\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/ewan%20munro__1543834287487__w622.jpg\" width=\"401\" height=\"310\"></span></span></div>\n\n<figcaption><span style=\"color:#000000;\"><span style=\"font-size:16px;\">Electric Cinema; Image: Ewan Munro</span></span></figcaption>\n</figure>\n</figcaption>\n</figure>\n</figcaption>\n</figure>\n</figcaption>\n</figure>\n",
+                    "contentActions": [],
+                    "creaDate": 1544118281622,
+                    "pubDate": 1544118281622,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webmap",
+                        "webmap": {
+                            "id": "495e908f013b45748d7d39584f07e704",
+                            "extent": {
+                                "xmin": -23378.08575000247,
+                                "ymin": 6712517.831560537,
+                                "xmax": -22323.49362546946,
+                                "ymax": 6713633.33444198,
+                                "spatialReference": {
+                                    "wkid": 102100
+                                }
+                            },
+                            "layers": null,
+                            "popup": null,
+                            "overview": {
+                                "enable": false,
+                                "openByDefault": true
+                            },
+                            "legend": {
+                                "enable": false,
+                                "openByDefault": false
+                            },
+                            "geocoder": {
+                                "enable": false
+                            },
+                            "altText": "Notting Hill Gate"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"color:#000080;\"><span style=\"font-size:26px;\">The Blue Door</span></span>",
+                    "content": "<p><span style=\"font-size:18px;\">As you walk northward on Portobello Road turn left onto Westbourne Park Road.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">At 280 Westbourne Park Road is the iconic \"Blue Door\" made famous from the 1999 romantic comedy <a href=\"https://www.imdb.com/title/tt0125439/\" target=\"_blank\"><em>Notting Hill</em></a> starring Julia Roberts and Hugh Grant.&nbsp; The film was popular with audiences and critics and was the highest grossing British film that year.&nbsp; Apart from the Blue Door (which was the entrance to Hugh Grant's flat) other film locations include the <a href=\"https://www.thenottinghillbookshop.co.uk/\" target=\"_blank\">Notting Hill Bookshop</a> and the Portobello Road Market. <em>Notting Hill</em> introduced viewers to the charm and distinctiveness of this London neighborhood and has drawn tourists to the area ever since.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\"><strong>Sources: </strong><em>Notting Hill, </em>IMDb<em>;</em> The Notting Hill Bookshop.</span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/nh__1543784397018__w429.jpg\" width=\"400\" height=\"597\"></div>\n\n<figcaption><span style=\"font-size:16px;\"><span style=\"color:#000000;\">Image: Working Title Films</span></span></figcaption>\n</figure>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/31%20copy__1543784437417__w533.jpg\" width=\"399\" height=\"600\"></div>\n\n<figcaption><span style=\"color:#000000;\"><span style=\"font-size:16px;\">280 Westbourne Park Road. Photo by David Campion, 2018</span></span></figcaption>\n</figure>\n",
+                    "contentActions": [],
+                    "creaDate": 1543939797314,
+                    "pubDate": 1543939797314,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webmap",
+                        "webmap": {
+                            "id": "495e908f013b45748d7d39584f07e704",
+                            "extent": {
+                                "xmin": -23437.80217834522,
+                                "ymin": 6712663.539645693,
+                                "xmax": -22383.21005381221,
+                                "ymax": 6713779.042527136,
+                                "spatialReference": {
+                                    "wkid": 102100
+                                }
+                            },
+                            "layers": null,
+                            "popup": null,
+                            "overview": {
+                                "enable": false,
+                                "openByDefault": true
+                            },
+                            "legend": {
+                                "enable": false,
+                                "openByDefault": false
+                            },
+                            "geocoder": {
+                                "enable": false
+                            },
+                            "altText": "Notting Hill Gate"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"color:#000080;\"><span style=\"font-size:26px;\">Home, Sweet Home</span></span>",
+                    "content": "<p><span style=\"font-size:18px;\">As you continue westward on Westbourne Park Road and cross Ladbroke Grove the street becomes Cornwall Crescent.&nbsp; Continue on Cornwall Crescent past St. Mark's Place and St. Mark's Road.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">At 57 Cornwall Crescent you will find a modest row house.&nbsp; This location has no historical significance other than that it was my home when I was a graduate student in 2000-2001.&nbsp; I lived in a flat on the second story (first in British nomenclature).&nbsp; The green door in the 2001 photo below is now gray.</span></p>\n\n<p>&nbsp;</p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/12%20Cornwall%20Crescent__1543785653841__w410.jpg\" width=\"402\" height=\"471\"></div>\n\n<figcaption>\n<p><span style=\"color:#000000;\"><span style=\"font-size:16px;\">57 Cornwall Crescent. Photo by David Campion, 2001</span></span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/01%20Cornwall%20Crescent__1543785684519__w707.jpg\" width=\"402\" height=\"363\"></div>\n\n<figcaption><span style=\"color:#000000;\"><span style=\"font-size:16px;\">Photo by David Campion, 2001</span></span></figcaption>\n</figure>\n</figcaption>\n</figure>\n",
+                    "contentActions": [],
+                    "creaDate": 1543939809416,
+                    "pubDate": 1543939809416,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webmap",
+                        "webmap": {
+                            "id": "495e908f013b45748d7d39584f07e704",
+                            "extent": {
+                                "xmin": -24015.857204703065,
+                                "ymin": 6712252.690618696,
+                                "xmax": -22961.265080170055,
+                                "ymax": 6713368.193500139,
+                                "spatialReference": {
+                                    "wkid": 102100
+                                }
+                            },
+                            "layers": null,
+                            "popup": null,
+                            "overview": {
+                                "enable": false,
+                                "openByDefault": true
+                            },
+                            "legend": {
+                                "enable": false,
+                                "openByDefault": false
+                            },
+                            "geocoder": {
+                                "enable": false
+                            },
+                            "altText": "Notting Hill Gate"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"color:#000080;\"><span style=\"font-size:26px;\">Murder, Innocence and Reform</span></span>",
+                    "content": "<p><span style=\"font-size:18px;\">Head eastward on Cornwall Crescent and turn left onto St. Mark's Road.&nbsp; Continue northward on St. Mark's Road through the intersection with Lancaster Road and then turn left onto Bartle Road.&nbsp; You are now at the site of one of the most sinister locations in the annals of crime in Britain.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">10 Rillington Place was the home of <strong>John Christie</strong> (1899-1953), a postal clerk and petty criminal who was also a serial murderer and necrophiliac.&nbsp; Between 1943 and 1953 Christie murdered at least eight people, including his wife Ethel, by strangling and sexually assaulting them inside his flat.&nbsp; Among his victims were his neighbor Beryl Evans and her infant daughter, both murdered in 1949.&nbsp; Mrs. Evans' husband, Timothy Evans, a working-class lorry driver, was charged with the two murders, tried, convicted, and hanged in 1950.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">In 1953, after a spate of murders, Christie was arrested.&nbsp; A police search of 10 Rillington Place uncovered the remains of seven of his victims.&nbsp; The Christie murder trial at the Old Bailey was one of the most sensational court cases in British history.&nbsp; Christie was found guilty and hanged at HMP Pentonville in North London.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">The Christie murders horrified Britain, but the wrongful prosecution and hanging of Timothy Evans years earlier for the murder of his wife and daughter added to the tragic story.&nbsp; This contributed to public reconsideration of capital punishment and its eventual abolition in 1965.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">The row house at 10 Rillington Place was torn down.&nbsp; The street is now called Bartle Road and nothing has been built upon the spot where the house stood.&nbsp; The <a href=\"https://www.geograph.org.uk/photo/5866086\" target=\"_blank\">memorial garden</a> is a peaceful, green spot in the midst of Notting Hill with no plaque or record of the terrible events that took place there.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\"><strong>Sources:</strong> \"John Christie\" <em>ODNB</em>; John Oates, <em>John Christie of Rillington Place: Biography of a Serial Killer</em>, 2013.</span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/jc__1543842204442__w576.jpg\" width=\"400\" height=\"526\">\n<p><span style=\"color:#000000;\"><span style=\"font-size:16px;\">John Christie and wife Ethel; Image: <em>The Mirror</em></span></span></p>\n</div>\n\n<figcaption>\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/times-pic__1543842240250__w366.jpg\" width=\"395\" height=\"652\"></div>\n\n<figcaption>\n<p><span style=\"color:#000000;\"><span style=\"font-size:16px;\">Image: <em>Times Picayune</em>, 16 July 1953</span></span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><span style=\"color:#000000;\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/indep__1543842322394__w640.jpg\" width=\"398\" height=\"299\"></span></div>\n\n<div class=\"image-container\"><span style=\"font-size:16px;\"><span style=\"color:#000000;\">Memorial garden at 10 Rillington Place; Image: <em>The Independent</em></span></span></div>\n</figure>\n</figcaption>\n\n<figcaption>&nbsp;</figcaption>\n</figure>\n</figcaption>\n</figure>\n",
+                    "contentActions": [],
+                    "creaDate": 1547229630433,
+                    "pubDate": 1547229630433,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webmap",
+                        "webmap": {
+                            "id": "495e908f013b45748d7d39584f07e704",
+                            "extent": {
+                                "xmin": -24335.937260620216,
+                                "ymin": 6712558.438731811,
+                                "xmax": -23281.345136087206,
+                                "ymax": 6713673.941613254,
+                                "spatialReference": {
+                                    "wkid": 102100
+                                }
+                            },
+                            "layers": null,
+                            "popup": null,
+                            "overview": {
+                                "enable": false,
+                                "openByDefault": true
+                            },
+                            "legend": {
+                                "enable": false,
+                                "openByDefault": false
+                            },
+                            "geocoder": {
+                                "enable": false
+                            },
+                            "altText": "Notting Hill Gate"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"color:#000080;\"><span style=\"font-size:26px;\">Lord of the Slums</span></span>",
+                    "content": "<p><span style=\"font-size:18px;\">One of the most notorious figures in the postwar history of Notting Hill was <strong>Perec \"Peter\" Rachman</strong> (1919-1962), a polish-born immigrant who was dubbed by the local media \"Lord of the slums.\"</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">In the 1950s and 60s, cheap rents brought a lot of working-class Londoners and immigrants into Notting Hill.&nbsp; This included one of Britain's largest West Indian populations.&nbsp; By the late 1950s, Rachman owned over one hundred residential properties in West London along with several nightclubs.&nbsp; He gained notoriety through his practice of overcharging tenants, converting flats into overcrowded subdivisions, and intimidating tenants by shutting off heat and water and with outright threats.&nbsp; Rachman, a known womanizer, was also involved in running prostitution rings (often in his own properties).&nbsp; In these rackets, he was aided by his associate Michael de Freitas, a.k.a. \"Michael X\" (1933-1975), a Trinidadian-born black power activist.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">After his death, Rachman was implicated in the infamous Profumo Scandal of 1963 that helped bring down the conservative government of Harold Macmillan when it was discovered that Christine Keeler and Mandy Rice-Davies, who had both had affairs with Macmillan's defence minister, had been Rachman's mistresses.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">Rachman's effect on Notting Hill's housing practices was so widespread and pernicious that <em>The Oxford English Dictionary</em> now includes the word</span><span style=\"font-size:18px;\"> \"</span><span style=\"font-size:18px;\"><a href=\"https://www.theguardian.com/theobserver/she-said/2014/mar/23/the-ghost-of-peter-rachman-still-stalks-the-halls-of-britains-rented-properties\" target=\"_blank\">Rachmanism</a>\" as a synonym for the exploitation of tenants by rogue landlords.&nbsp; The scope of Rachman's abuses led to Parliament passing the Rent Act of 1965 to protect tenants' rights.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\"><strong>Sources:</strong> \"Peter Rachman\" <em>ODNB</em>; <em>The Guardian,</em> 23 Mar 2014.</span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/images__1543843364681__w284.jpg\" width=\"398\" height=\"248\"></div>\n\n<figcaption><span style=\"color:#000000;\"><span style=\"font-size:16px;\">Peter Rachman; Image: <em>The Telegraph</em></span></span></figcaption>\n</figure>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/p01hyz5z__1543843224729__w610.jpg\" width=\"401\" height=\"316\"></div>\n\n<figcaption>\n<p><span style=\"font-size:16px;\"><span style=\"color:#000000;\">Notting Hill tenement row houses, 1960s; Image: BBC</span></span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:16px;\"><span style=\"color:#000000;\">Opposite: \"Two Girls\" Notting Hill slum, 1971, photo by Nick Hedges; Image: Birmingham Archives &amp; Heritage Project</span></span></p>\n</figcaption>\n</figure>\n",
+                    "contentActions": [],
+                    "creaDate": 1550692758876,
+                    "pubDate": 1550692758876,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/nh-exhibition-no-2-041__1543841074052__w1440.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"color:#000080;\"><span style=\"font-size:26px;\">The Grenfell Memorial</span></span>",
+                    "content": "<p><span style=\"font-size:18px;\">Continue west on Bartle Road and turn left onto Kingsdown Close and then right onto Lancaster Road.&nbsp; As Lancaster Road bends right, turn left onto the pedestrian walkway toward Lancaster Green.&nbsp; You will come upon the sealed-off remains of Grenfell Tower and the unofficial memorial that has grown along the fence nearby.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">On 14 June 2017, Notting Hill was the site of the one worst disasters in the history of Modern Britain.&nbsp; The Grenfell Tower, an apartment block that had originally been designed as low-income public housing, caught fire shortly after midnight and flames consumed the upper stories of the building within minutes.&nbsp; The fire was all the more tragic for having been entirely preventable.&nbsp; For years, tenants had complained to the property management about the numerous fire hazards in the building but were ignored.&nbsp; The unsafe conditions included a single stairwell for the entire building, faulty smoke alarms, and flammable external cladding that is banned in the USA and Germany (the last of these was a leading factor in the spread of the fire).&nbsp; In total, 72 people died in the incident, the worst residential fire in Britain since the end of the Second World War.&nbsp;</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">In <a href=\"http://www.kctmo.org.uk/main/38/grenfell-tower-fire\" target=\"_blank\">the immediate aftermath of the fire</a>, the rage of the local community could barely be contained.&nbsp; The fact the victims were largely low-income and immigrant members of what has become a rapidly gentrifying area of London was not lost on local residents.&nbsp; The two agencies responsible for managing the building, The Kensington &amp; Chelsea London Borough Council and the <a href=\"http://www.kctmo.org.uk/\" target=\"_blank\">Kensington &amp; Chelsea Tenant Management Organisation,</a> came under fire as did the Conservative government of Theresa May.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">The Grenfell Fire galvanized the local community.&nbsp; Many religious congregations such as the <a href=\"http://nottinghillmc.org.uk/\" target=\"_blank\">Notting Hill Methodist Church</a> and the <a href=\"https://almanaar.org.uk/\" target=\"_blank\">Al-Manaar Muslim Cultural Heritage Centre</a> played a vital leadership role in providing support and comfort to the survivors and bereaved families. <a href=\"https://www.grenfellunited.org/\" target=\"_blank\">Grenfell United</a> was established to provide long-term support to the survivors of the fire and to lobby for a thorough investigation and accountability for this tragedy.&nbsp; The <a href=\"https://grenfellfoundation.org.uk/\" target=\"_blank\">Grenfell Foundation</a> is a registered charity that supports survivors.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\"><strong>Sources: </strong>BBC; Skynews; <em>The Economist</em>; Grenfell United; KCTMO.</span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/daily%20mail__1543846864916__w640.jpg\" width=\"402\" height=\"277\"></div>\n\n<figcaption><span style=\"font-size:16px;\"><span style=\"color:#000000;\">Image: <em>Daily Mail</em></span></span></figcaption>\n</figure>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/forward%20thinking__1543846605539__w640.jpg\" width=\"404\" height=\"270\"></div>\n\n<div class=\"image-container\"><span style=\"font-size:16px;\"><span style=\"color:#000000;\">Image: Forward Thinking</span></span></div>\n</figure>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/26%20copy__1543846675927__w426.jpg\" width=\"403\" height=\"605\"></div>\n\n<figcaption><span style=\"font-size:16px;\"><span style=\"color:#000000;\">Photo by David Campion, 2018</span></span></figcaption>\n</figure>\n",
+                    "contentActions": [],
+                    "creaDate": 1543952031159,
+                    "pubDate": 1543952031159,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webmap",
+                        "webmap": {
+                            "id": "495e908f013b45748d7d39584f07e704",
+                            "extent": {
+                                "xmin": -24560.471031188965,
+                                "ymin": 6712161.921647615,
+                                "xmax": -23505.878906655955,
+                                "ymax": 6713277.424529058,
+                                "spatialReference": {
+                                    "wkid": 102100
+                                }
+                            },
+                            "layers": null,
+                            "popup": null,
+                            "overview": {
+                                "enable": false,
+                                "openByDefault": true
+                            },
+                            "legend": {
+                                "enable": false,
+                                "openByDefault": false
+                            },
+                            "geocoder": {
+                                "enable": false
+                            },
+                            "altText": "Notting Hill Gate"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"color:#000080;\"><span style=\"font-size:26px;\">The Notting Hill Race Riots</span></span>",
+                    "content": "<p><span style=\"font-size:18px;\">From Lancaster Green retrace your steps toward Lancaster Road.&nbsp; Turn left onto Silchester Road and follow it under the train bridge until you reach Bramley Road, then turn left.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">In August 1958, a spate of racially motivated riots broke out along Bramley Road between gangs of white youths called \"Teddy Boys\" and members of the neighborhood's West Indian (Black Caribbean) community.&nbsp; In the years since the end of the Second World War, Notting Hill had been the destination for many West Indian immigrants who came to Britain looking for work.&nbsp; Racial tensions had grown between these newcomers and the white working-class residents of the neighborhood and violent attacks on black Londoners were on the rise.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">The 1958 disturbances in Notting Hill were alleged to have begun on 29 August at the Latimer Road Underground station on Bramley Road when Raymond Morrison, a young Jamaican man, got into an argument with his Swedish wife, Majbritt, and bystanders began to verbally abuse and assault the couple.&nbsp; The violence escalated into mob attacks on West Indian homes and businesses followed by retaliation that lasted for six days and nights.&nbsp; The <a href=\"https://warwick.ac.uk/services/library/mrc/studying/docs/racism/riots/\" target=\"_blank\">1958 Notting Hill riots</a> resulted in over 140 arrests and worsening relations between the West Indian community and the Metropolitan Police, the latter of whom were accused of reacting too slowly and not doing enough to stop the violence.&nbsp; The Notting Hill riots were followed by worsening race relations over the years and there were riots again in the area in 1976.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\"><strong>Sources:</strong> University of Warwick, Modern Record Centre; <em>The Independent</em>; British Pathé.</span></p>\n\n<p>&nbsp;</p>\n\n<div aria-label=\"\" class=\"iframe-container mj-video-by-url  fit\"><iframe allowfullscreen=\"1\" src=\"//www.youtube.com/embed/bzDItpuBcEg?wmode=opaque&amp;rel=0\" width=\"100%\" height=\"\" frameborder=\"0\"></iframe></div>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/keystone%20via%20getty%20images__1543854566983__w750.jpg\" width=\"401\" height=\"401\"></div>\n\n<figcaption><span style=\"font-size:16px;\"><span style=\"color:#000000;\">Majbritt and Raymond Morrison; Image: Getty</span></span></figcaption>\n</figure>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/image__1543854637361__w403.jpg\"></div>\n\n<figcaption><span style=\"font-size:16px;\"><span style=\"color:#000000;\">Police search a black youth in Notting Hill; Image: Getty</span></span></figcaption>\n</figure>\n",
+                    "contentActions": [],
+                    "creaDate": 1543947773859,
+                    "pubDate": 1543947773859,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webmap",
+                        "webmap": {
+                            "id": "495e908f013b45748d7d39584f07e704",
+                            "extent": {
+                                "xmin": -24736.03733051666,
+                                "ymin": 6712178.642247551,
+                                "xmax": -23681.44520598365,
+                                "ymax": 6713294.145128994,
+                                "spatialReference": {
+                                    "wkid": 102100
+                                }
+                            },
+                            "layers": null,
+                            "popup": null,
+                            "overview": {
+                                "enable": false,
+                                "openByDefault": true
+                            },
+                            "legend": {
+                                "enable": false,
+                                "openByDefault": false
+                            },
+                            "geocoder": {
+                                "enable": false
+                            },
+                            "altText": "Notting Hill Gate"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"color:#000080;\"><span style=\"font-size:26px;\">A Caribbean Celebration</span></span>",
+                    "content": "<p><span style=\"font-size:18px;\">The <a href=\"https://nhcarnival.org/\" target=\"_blank\">Notting Hill Carnival</a> is a celebration of Black Caribbean music and culture that takes place every August.&nbsp; The carnival, which began in 1966, features live music and parades with performers in colorful costumes.&nbsp; It lasts two days and often draws over a million people, making it the largest multi-ethnic gathering in Europe.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">While the carnival is an expression of West Indian culture and recreates the festivals associated with the islands of the Caribbean, it also continues a London tradition of public street theatre that goes back centuries and is an integral part of British culture.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\"><strong>Sources: </strong>TimeOut London; Notting Hill Carnival Ltd.; English Heritage.</span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/nhc2__1543856527725__w418.jpg\" width=\"401\" height=\"491\"></div>\n\n<figcaption>\n<p><span style=\"font-size:16px;\"><span style=\"color:#000000;\">Notting Hill Carnival, 1960s; Image: Getty</span></span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/nhc__1543856569368__w513.jpg\" width=\"401\" height=\"375\"></div>\n\n<figcaption>\n<p><span style=\"font-size:16px;\"><span style=\"color:#000000;\">Carnival performer, 2013; Image: Romazur (Wikipedia)</span></span></p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/nhcbp__1543856656668__w480.jpg\" width=\"399\" height=\"501\"></div>\n\n<figcaption>\n<p><span style=\"font-size:16px;\"><span style=\"color:#000000;\">Notting Hill Carnival Blue Plaque; Image: English Heritage</span></span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:16px;\"><span style=\"color:#000000;\">Opposite: Carnival performer, 2015; Image: Getty</span></span></p>\n</figcaption>\n</figure>\n</figcaption>\n</figure>\n</figcaption>\n</figure>\n",
+                    "contentActions": [],
+                    "creaDate": 1543939861712,
+                    "pubDate": 1543939861712,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/2015__1543857009023__w1042.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"color:#000080;\"><span style=\"font-size:26px;\">The End</span></span>",
+                    "content": "<p><span style=\"font-size:18px;\">Head south on Bramley Road until you reach the <a href=\"https://tfl.gov.uk/tube/stop/940GZZLULRD/latimer-road-underground-station\" target=\"_blank\">Latimer Road Underground Station</a> where you can connect to the Hammersmith &amp; City Line and the Circle Line.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px;\">We have reached the end of our tour.&nbsp; I hope you have enjoyed exploring Notting Hill and learning a bit about its rich history.</span></p>\n\n<p>&nbsp;</p>\n\n<p style=\"text-align:right\"><em><span style=\"font-size:18px;\">--David Campion</span></em></p>\n\n<p>&nbsp;</p>\n\n<figure class=\"caption\">\n<div class=\"image-container\"><span style=\"font-size:18px;\"><img alt=\"\" src=\"https://www.arcgis.com/sharing/rest/content/items/4ff73663758342d8a3258b3c4745235a/resources/view__1543845809178__w453.jpg\" width=\"400\" height=\"424\"></span></div>\n\n<figcaption><span style=\"color:#000000;\"><span style=\"font-size:16px;\">Image: Volker Fitzpatrick</span></span></figcaption>\n</figure>\n",
+                    "contentActions": [],
+                    "creaDate": 1543939879735,
+                    "pubDate": 1543939879735,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webmap",
+                        "webmap": {
+                            "id": "495e908f013b45748d7d39584f07e704",
+                            "extent": {
+                                "xmin": -25217.94890751652,
+                                "ymin": 6710277.271168733,
+                                "xmax": -20999.580408917223,
+                                "ymax": 6714739.282694997,
+                                "spatialReference": {
+                                    "wkid": 102100
+                                }
+                            },
+                            "layers": null,
+                            "popup": null,
+                            "overview": {
+                                "enable": false,
+                                "openByDefault": true
+                            },
+                            "legend": {
+                                "enable": false,
+                                "openByDefault": false
+                            },
+                            "geocoder": {
+                                "enable": false
+                            },
+                            "altText": "Notting Hill Gate"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "_ssl": null
+}

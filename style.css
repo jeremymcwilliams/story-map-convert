@@ -1,0 +1,122 @@
+:root {
+  --dot-nav: #726458;
+  --panel-bg: #FFF8E9;
+  --media-bg: #C9C1B9;
+  --text: #000000;
+  --text-link: #555;
+  --soft-text: #c0c0c0;
+  --header-h: 56px;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: "Times New Roman", Times, serif;
+  color: var(--text);
+  background: var(--panel-bg);
+}
+
+.app-header {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  height: var(--header-h);
+  background: #fff;
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 0 16px;
+  z-index: 100;
+}
+.app-header-logo { height: 34px; display: block; }
+.app-header-text {
+  color: var(--text);
+  text-decoration: none;
+  font-size: 15px;
+}
+.app-header-text:hover { text-decoration: underline; }
+
+.journal {
+  display: flex;
+  margin-top: var(--header-h);
+  min-height: calc(100vh - var(--header-h));
+}
+
+.panel {
+  width: 40%;
+  min-width: 340px;
+  max-width: 620px;
+  background: var(--panel-bg);
+}
+
+.section {
+  padding: 48px 40px;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+  min-height: calc(100vh - var(--header-h));
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.section-title {
+  margin: 0 0 20px 0;
+  line-height: 1.15;
+}
+.section-title p { margin: 0; }
+
+.section-content {
+  font-size: 18px;
+  line-height: 1.5;
+}
+.section-content p { margin: 0 0 14px 0; }
+.section-content a { color: var(--text-link); }
+.section-content figure { margin: 20px 0; }
+.section-content figure img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+.section-content figcaption {
+  font-size: 13px;
+  color: #666;
+  margin-top: 6px;
+}
+
+.media-col {
+  position: sticky;
+  top: var(--header-h);
+  width: 60%;
+  height: calc(100vh - var(--header-h));
+  background: var(--media-bg);
+}
+
+.media-pane {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+/* #mapView carries Esri's own .esri-view class, whose CSS relies on
+   `display: flex` (its .esri-view-root child is sized via `flex: 100%`,
+   not a percentage height) — plain `display: block` collapses it to 0px. */
+#mapView.active { display: flex; }
+#imageView.active { display: block; }
+
+.media-image {
+  object-fit: contain;
+  background: var(--media-bg);
+}
+
+@media (max-width: 860px) {
+  .journal { flex-direction: column; }
+  .panel, .media-col { width: 100%; max-width: none; }
+  .media-col {
+    position: relative;
+    top: 0;
+    height: 60vh;
+  }
+  .section { min-height: auto; }
+}
